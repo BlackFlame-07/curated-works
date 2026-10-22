@@ -596,12 +596,6 @@ export default function CaseStudyDetail() {
               >
                 Inquire now
               </a>
-              <Link
-                to="/"
-                className="px-8 py-4 text-xs font-inter uppercase tracking-widest font-semibold border border-[var(--border-secondary)] text-[var(--text-primary)] hover:bg-[var(--border-primary)] rounded-full transition-colors"
-              >
-                All Cases
-              </Link>
             </div>
           </div>
         </section>

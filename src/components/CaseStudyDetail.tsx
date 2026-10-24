@@ -591,7 +591,7 @@ export default function CaseStudyDetail() {
             </p>
             <div className="flex flex-wrap items-center justify-center gap-4 mt-2">
               <a
-                href="mailto:siafk829@gmail.com"
+                href="https://saif-khan-portfolio-nine.vercel.app/#contact"
                 className="px-8 py-4 text-xs font-inter uppercase tracking-widest font-semibold bg-[var(--text-primary)] text-[var(--bg-primary)] rounded-full hover:opacity-85 transition-opacity cursor-pointer shadow-lg"
               >
                 Inquire now
